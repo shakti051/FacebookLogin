@@ -1,0 +1,241 @@
+{
+  "project_info": {
+    "project_number": "557672344838",
+    "firebase_url": "https://firenoteapp-f546a.firebaseio.com",
+    "project_id": "firenoteapp-f546a",
+    "storage_bucket": "firenoteapp-f546a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557672344838:android:be23788b7a6db2ca708287",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557672344838-1qgf0qlo38fsgnhgqmg664qdue2sc0ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "58bab9b01a5631a228c1aec75d0f8d22c765c5a1"
+          }
+        },
+        {
+          "client_id": "557672344838-1vnpvqoulj37dqtvp7bn6bq1ao111gnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "b9650e869629b810a4649e8bdeb096e175f68262"
+          }
+        },
+        {
+          "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnEeQGoLRPDf7Lq1H-EgeBnEE_cOwmGDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557672344838:android:7084b1234c5dbe4e708287",
+        "android_client_info": {
+          "package_name": "com.gov.saglik.checkotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557672344838-2gvcquk9q8kk005n2ts9n9elvp4014bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gov.saglik.checkotp",
+            "certificate_hash": "58bab9b01a5631a228c1aec75d0f8d22c765c5a1"
+          }
+        },
+        {
+          "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnEeQGoLRPDf7Lq1H-EgeBnEE_cOwmGDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557672344838:android:566f8182efa4983a708287",
+        "android_client_info": {
+          "package_name": "com.gov.saglik.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557672344838-hav6di30tv75trcnaredapuljrt5ukg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gov.saglik.firebaselogin",
+            "certificate_hash": "58bab9b01a5631a228c1aec75d0f8d22c765c5a1"
+          }
+        },
+        {
+          "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnEeQGoLRPDf7Lq1H-EgeBnEE_cOwmGDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557672344838:android:3bbe09b469195818708287",
+        "android_client_info": {
+          "package_name": "com.gov.saglik.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557672344838-hg8oufnmoqikdpu6i4r6vjbd9r36buq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gov.saglik.food",
+            "certificate_hash": "58bab9b01a5631a228c1aec75d0f8d22c765c5a1"
+          }
+        },
+        {
+          "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnEeQGoLRPDf7Lq1H-EgeBnEE_cOwmGDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557672344838:android:52dd6d99e60beb91708287",
+        "android_client_info": {
+          "package_name": "com.gov.saglik.phoneauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557672344838-1tq58fus1ihu3ud8b1jmj3nndfpfrv7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gov.saglik.phoneauthdemo",
+            "certificate_hash": "58bab9b01a5631a228c1aec75d0f8d22c765c5a1"
+          }
+        },
+        {
+          "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnEeQGoLRPDf7Lq1H-EgeBnEE_cOwmGDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557672344838:android:aec1fc12556ebf95708287",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding.firebasephoneauthexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557672344838-302ul31sq8d80qpns2etg2rkhq1l7arg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.simplifiedcoding.firebasephoneauthexample",
+            "certificate_hash": "58bab9b01a5631a228c1aec75d0f8d22c765c5a1"
+          }
+        },
+        {
+          "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnEeQGoLRPDf7Lq1H-EgeBnEE_cOwmGDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557672344838-am002ib0u5ud2u5puqquvoma8dq47ceh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
